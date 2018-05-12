@@ -1,10 +1,16 @@
 _repo: An-Estimate-of-the-True-Value-of-Vaccination-as-a-Security-Against-Small-Pox_49475
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49475-h/images/cover.jpg
 creator:
   author:
     agent_name: Greenhow, T. M.
     gutenberg_agent_id: '45357'
     url: http://www.gutenberg.org/2009/agents/45357
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49475#An-Estimate-of-the-True-Value-of-Vaccination-as-a-Security-Against-Small-Pox
 gutenberg_issued: '2015-07-18'
 gutenberg_type: Text
 identifiers:
